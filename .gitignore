@@ -1,0 +1,12 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated output images (run simulation to regenerate)
+CdTe_pileup_analysis.png
+CdTe_spectrum_comparison.png
+preview_both.png
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
